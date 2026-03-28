@@ -1,0 +1,11 @@
+streamlit
+numpy
+openai
+openwakeword>=0.6.0
+sounddevice
+soundfile
+pocket-tts
+torch
+openai-whisper
+pyaudio
+onnxruntime
