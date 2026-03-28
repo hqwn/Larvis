@@ -29,7 +29,7 @@ Full installation & demo video:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/hqwn/Jarvis-V2.git](https://github.com/hqwn/Jarvis-V2.git)
+git clone [https://github.com/hqwn/Larvis.git](https://github.com/hqwn/Larvis.git)
 cd Jarvis-V2
 ```
 
