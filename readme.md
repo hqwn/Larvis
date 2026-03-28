@@ -43,7 +43,7 @@ lemonade download unsloth/Qwen3-1.7B-GGUF --file Qwen3-1.7B-Q4_0.gguf --name QWE
 ### 3. Install Dependencies & Run
 ```bash
 pip install -r requirements.txt
-streamlit run src/Ui.py
+streamlit run src/Ui.py # if this doesn't work try python -m streamlit run src/Ui.py
 ```
 
 ---
