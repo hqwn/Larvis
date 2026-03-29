@@ -37,7 +37,7 @@ cd Larvis
 1. Install the Lemonade Server: [https://lemonade-server.ai/](https://lemonade-server.ai/)
 2. Download the optimized Qwen model:
 ```bash
-lemonade download unsloth/Qwen3-1.7B-GGUF --file Qwen3-1.7B-Q4_0.gguf --name QWEN3-1.7B-GGUF
+lemonade-server pull user.Qwen3-1.7B --checkpoint unsloth/Qwen3-1.7B-GGUF:Q4_0 --recipe llamacpp
 ```
 
 ### 3. Install Dependencies & Run
