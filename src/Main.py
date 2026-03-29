@@ -32,7 +32,7 @@ running = False
 #Ai call
 def ai_response(Question):
     return client.chat.completions.create(
-        model="Qwen3-1.7B-GGUF",
+        model="user.Qwen3-1.7B",
     messages=[{"role": "system", "content": f'You are a voice assistant like alexa, so BE CONSICE and return small output with NO EMOJIS, NO FORMATTING like asterisks, and proper punctuation with periods, commas, and exclamation marks, MAKE SURE TO INCLUDE ALL OF THAT. ALso talk in ENGLISH'}, {'role': 'user', 'content':Question}],
         stream= True,
         temperature= .45
