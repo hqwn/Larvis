@@ -4,7 +4,7 @@
 [![Lemonade](https://img.shields.io/badge/LLM-Lemonade-yellow.svg)](https://lemonade-server.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-**Larvis** (Lemonade + Jarvis) is a privacy-first, ultra-fast local voice assistant built for the **AMD Lemonade Developer Challenge 2026**. It runs entirely on your local hardware using high-efficiency ONNX and GGUF models.
+**Larvis** (Lemonade + Jarvis) is a privacy-first, ultra-fast local voice assistant. It runs entirely on your local hardware using high-efficiency ONNX and GGUF models.
 
 ![Larvis Dashboard](readme_images/Full_Ui.png)
 
@@ -12,7 +12,7 @@
 
 ## Video Tutorial & Demo
 Full installation & demo video:  
-👉 **[RuCode YouTube Channel](https://youtube.com/@RuCode)** *(Coming soon!)*
+👉 **[RuCode YouTube Channel](https://youtube.com/@RuCode)** 
 
 ---
 
@@ -90,4 +90,4 @@ Swap the `audio_prompt` name in the `model_init` section to change the TTS perso
 ---
 
 ## Author
-**Developed by Aryan Jain** — *Created for the AMD Lemonade Developer Challenge 2026.*
+**Developed by Aryan Jain** 
